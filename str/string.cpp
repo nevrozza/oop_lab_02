@@ -2,8 +2,6 @@
 
 #include <cstring>
 #include <ostream>
-#include <stdexcept>
-#include <utility>
 
 String::String() : String("") {}
 

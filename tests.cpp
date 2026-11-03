@@ -1,6 +1,5 @@
 #include "str/string_class.h"
 #include <gtest/gtest.h>
-#include <sstream>
 
 TEST(StringTest, DefaultIsEmpty) {
     String s;
