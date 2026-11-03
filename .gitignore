@@ -1,0 +1,11 @@
+/.idea/
+/cmake-build-*/
+/build/
+/build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/CTestTestfile.cmake
+/DartConfiguration.tcl
+/Testing/
+/.DS_Store
+*.iml
